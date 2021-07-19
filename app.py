@@ -124,7 +124,7 @@ if st.button("Perform Transformation"):
   result=import_and_predict(image)
 
 if st.button("About"):
-  st.header(" Mohit Sankhla")
+  st.header(" Shubham Toshniwal")
   st.subheader("Student, Department of Computer Engineering")
 html_temp = """
    <div class="" style="background-color:orange;" >
